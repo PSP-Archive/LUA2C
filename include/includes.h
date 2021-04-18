@@ -1,0 +1,17 @@
+#include <pspkernel.h>
+#include <malloc.h>		
+#include <pspdebug.h>
+#include <pspctrl.h>
+#include <pspdisplay.h>
+#include <pspsdk.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <sys/types.h>
+#include <sys/unistd.h>
+#include <pspaudio.h>
+#include <pspaudiolib.h>
+#include "include/callbacks.h"
+#include "include/graphics.h"
+#include "include/mp3.h"
+#include "include/wav.h"
